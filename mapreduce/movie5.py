@@ -1,4 +1,4 @@
-# Día en que peor evaluación en promedio han dado los usuarios
+# Dia en que peor evaluacion en promedio han dado los usuarios
 from mrjob.job import MRJob, MRStep
 from utils import parse_line
 

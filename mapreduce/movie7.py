@@ -1,4 +1,4 @@
-# La mejor y peor película evaluada por genero
+# La mejor y peor pelicula evaluada por genero
 from mrjob.job import MRJob
 from utils import parse_line
 

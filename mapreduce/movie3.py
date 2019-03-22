@@ -1,4 +1,4 @@
-# Día en que menos películas se han visto
+# Dia en que menos peliculas se han visto
 from mrjob.job import MRJob, MRStep
 from utils import parse_line
 

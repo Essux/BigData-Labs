@@ -1,4 +1,4 @@
-# Número de películas vista por un usuario, valor promedio de calificación
+# Numero de peliculas vista por un usuario, valor promedio de calificacion
 from mrjob.job import MRJob
 from utils import parse_line
 

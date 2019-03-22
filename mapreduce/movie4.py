@@ -1,4 +1,4 @@
-# Número de usuarios que ven una misma película y el rating promedio
+# Numero de usuarios que ven una misma pelicula y el rating promedio
 from mrjob.job import MRJob, MRStep
 from utils import parse_line
 

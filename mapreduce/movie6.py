@@ -1,4 +1,4 @@
-# Día en que mejor evaluación han dado los usuarios
+# Dia en que mejor evaluacion han dado los usuarios
 from mrjob.job import MRJob, MRStep
 from utils import parse_line
 
